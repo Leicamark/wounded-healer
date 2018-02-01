@@ -11,4 +11,4 @@ One direction it can take is focus on the therapist who--while helping others pr
 Another direction is making the therapist a foil for other characters, perhaps a family with secrets and denial; in this case, unraveling the lies leads to integration and healing.
 
 
-This project uses Fountain(http://fountain.io), a plain-text format for screenplays.
+This project uses [Fountain](http://fountain.io), a plain-text format for screenplays.
